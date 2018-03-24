@@ -5,6 +5,8 @@ from sys import argv
 a = int(argv[1])
 
 if a % 2 == 0:
-	print "A is even"
+	print "even"
+	return "even"
 else:
-	print "A is odd"
+	print "odd"
+	return "odd"
