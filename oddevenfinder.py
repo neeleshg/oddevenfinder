@@ -2,6 +2,7 @@
 """
 This script shows number is odd or even.
 ./oddevenfinder.py <number>
+
 """
 import os
 from sys import argv
