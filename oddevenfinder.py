@@ -1,4 +1,7 @@
 #!/usr/bin/python
+"""
+This script shows number is odd or even
+"""
 import os
 from sys import argv
 #a=input("Enter Number: ")
